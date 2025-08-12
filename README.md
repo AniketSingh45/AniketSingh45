@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniketSingh45
+- 👋 Hi, I’m Aniket Kumar Singh
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently working on html and CSS
 - 💞️ I’m looking to collaborate on ...
