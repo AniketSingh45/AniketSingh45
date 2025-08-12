@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently working on html and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - gmail- aniket808808@gmail.com
+- 📫 How to reach me -gmail- aniket808808@gmail.com
 
 <!---
 AniketSingh45/AniketSingh45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
